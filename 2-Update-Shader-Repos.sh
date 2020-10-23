@@ -6,139 +6,139 @@ cd \reshade-shaders-slim
 git pull origin slim
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \reshade-shaders-master
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \SweetFX
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \pro80-repo
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Depth3D
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \AstrayFX
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \OtisFX
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Pirate-Shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \qUINT
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \brussell1-Shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Daodan317081-shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \fubax-shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \FXShaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \BadFX--Use-at-own-risk-Could-violate-game-TOS
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \MLUT
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Radegast-FFXIV-shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \LordOfLunacy-Insane-Shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Matsilagi-retroarch-shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Matsilagi-shadertoy-shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Matsilagi-unity-shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Matsilagi-misc-shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \Zackin5-Filmic-Tonemapping-Shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \guestrr-Shaders
 git pull origin master
 echo
 echo "################################################################################"
-cd - > nul
+cd -
 echo
 cd \NativeEnhancer-FE-DX10
 git pull origin master

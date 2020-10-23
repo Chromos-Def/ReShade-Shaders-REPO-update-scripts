@@ -9,6 +9,7 @@ rm -rf \reshade-shaders-master
 rm -rf \SweetFX
 rm -rf \pro80-repo
 rm -rf \Depth3D
+rm -rf \AstrayFX
 rm -rf \OtisFX
 rm -rf \Pirate-Shaders
 rm -rf \qUINT

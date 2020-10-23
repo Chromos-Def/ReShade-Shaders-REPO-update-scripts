@@ -32,6 +32,12 @@ echo
 echo "################################################################################"
 cd - > nul
 echo
+cd \AstrayFX
+git pull origin master
+echo
+echo "################################################################################"
+cd - > nul
+echo
 cd \OtisFX
 git pull origin master
 echo

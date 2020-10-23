@@ -57,6 +57,10 @@ git clone --single-branch --branch master $ghurl/BlueSkyDefender/Depth3D.git \De
 echo
 echo "################################################################################"
 echo
+git clone --single-branch --branch master $ghurl/BlueSkyDefender/AstrayFX.git \AstrayFX
+echo
+echo "################################################################################"
+echo
 git clone --single-branch --branch master $ghurl/FransBouma/OtisFX.git \OtisFX
 echo
 echo "################################################################################"

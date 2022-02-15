@@ -19,7 +19,7 @@ rm -rf \fubax-shaders
 rm -rf \FXShaders
 rm -rf \BadFX--Use-at-own-risk-Could-violate-game-TOS
 rm -rf \MLUT
-rm -rf \Radegast-FFXIV-shaders
+rm -rf \Warp-FX
 rm -rf \LordOfLunacy-Insane-Shaders
 rm -rf \Matsilagi-retroarch-shaders
 rm -rf \Matsilagi-shadertoy-shaders
@@ -28,6 +28,9 @@ rm -rf \Matsilagi-misc-shaders
 rm -rf \Zackin5-Filmic-Tonemapping-Shaders
 rm -rf \guestrr-Shaders
 rm -rf \NativeEnhancer-FE-DX10
+rm -rf \FGFX
+rm -rf \CorgiFX
+rm -rf \CobraFX
 echo
 echo "################################################################################"
 echo "####################        Finished deleting repos        #####################"
@@ -98,7 +101,7 @@ git clone --single-branch --branch master $ghurl/TheGordinho/MLUT.git \MLUT
 echo
 echo "################################################################################"
 echo
-git clone --single-branch --branch master $ghurl/Radegast-FFXIV/reshade-shaders.git \Radegast-FFXIV-shaders
+git clone --single-branch --branch master $ghurl/Radegast-FFXIV/Warp-FX.git \Warp-FX
 echo
 echo "################################################################################"
 echo
@@ -131,6 +134,15 @@ echo
 echo "################################################################################"
 echo
 git clone --single-branch --branch master $ghurl/dddfault/NativeEnhancer-FE-DX10.git \NativeEnhancer-FE-DX10
+echo "################################################################################"
+echo
+git clone --single-branch --branch main $ghurl/AlexTuduran/FGFX.git \FGFX
+echo "################################################################################"
+echo
+git clone --single-branch --branch master $ghurl/originalnicodr/CorgiFX.git \CorgiFX
+echo "################################################################################"
+echo
+git clone --single-branch --branch master $ghurl/LordKobra/CobraFX.git \CobraFX
 echo
 echo "################################################################################"
 echo "########################        Finished Cloning        ########################"
